@@ -6,3 +6,7 @@ We use google text to speech (tts) apis.
 
 # How do we add pictures to it?
 We will have another web application to facilitate these requirements.
+
+# About parts of speech tagging from text.
+We use https://nlp.stanford.edu/software/tagger.shtml#Download this module.
+
